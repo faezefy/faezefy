@@ -6,13 +6,17 @@ I'm currently learning game development with Unity and C#.
 I enjoy creating small games, gameplay systems, and experimenting with game mechanics.
 
 ### 🕹️ Game Engines & Languages
+<center>
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+</center>
 
 ### ⚙️ Tools & Workflows
+<center>
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+</center>
 
 ### 🎯 Areas of Focus
 * 🔹 2D Game Development
@@ -20,6 +24,6 @@ I enjoy creating small games, gameplay systems, and experimenting with game mech
 
 ## 📊 Most Used Languages
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faezefy&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
