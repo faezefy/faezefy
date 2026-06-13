@@ -1,4 +1,4 @@
-# Hi, I'm Faeze 👋
+## Hi, I'm Faeze 👋
 ### 🎮 Junior Unity Game Developer & Gameplay Programmer
 
 ## About Me
@@ -17,3 +17,9 @@ I enjoy creating small games, gameplay systems, and experimenting with game mech
 ### 🎯 Areas of Focus
 * 🔹 2D Game Development
 * 🔹 3D Game Development (Currently Learning 🚀)
+
+## 📊 Most Used Languages
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faezefy&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
