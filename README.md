@@ -1,9 +1,9 @@
-## Hi, I'm Faeze 👋
 ### 🎮 Junior Unity Game Developer & Gameplay Programmer
 
-## About Me
-I'm currently learning game development with Unity and C#.
-I enjoy creating small games, gameplay systems, and experimenting with game mechanics.
+
+### About Me
+I'm a Computer Software Engineering student learning game development with Unity and C#.
+I enjoy building small games, experimenting with gameplay mechanics, and learning more about game programming.
 
 ### 🕹️ Game Engines & Languages
 <p align="center">
@@ -18,12 +18,7 @@ I enjoy creating small games, gameplay systems, and experimenting with game mech
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-### 🎯 Areas of Focus
-* 🔹 2D Game Development
-* 🔹 3D Game Development (Currently Learning 🚀)
-
-## 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faezefy&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+### Currently Learning
+- 2D & 3D Game Development
+- Gameplay Programming
+- C# & Unity
